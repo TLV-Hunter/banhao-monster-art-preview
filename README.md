@@ -1,6 +1,6 @@
 # คู่หูบ้านเฮา — Monster Art Preview v0.1
 
-Temporary GitHub Pages hosting for the Monster Art Preview.
+Temporary GitHub hosting source for the Monster Art Preview.
 
 Current art production status:
 - 99 Species total
@@ -9,8 +9,9 @@ Current art production status:
 - 48/297 Form images currently shown
 - Special Forms remain LOCKED_FUTURE_CONTENT
 
-This repository does not modify `KhuHuBanHao_GameDB_v0.7_SPEC_LOCK.json`.
-It is an art-preview surface only and can be migrated later.
+This repository does **not** modify `KhuHuBanHao_GameDB_v0.7_SPEC_LOCK.json`.
+The page is a temporary art-preview surface only and can be migrated later.
 
 ## GitHub Pages
-The site is published from the repository root through GitHub Actions.
+Publish directly from branch `main` and folder `/ (root)`.
+The site entry point is `index.html`.
